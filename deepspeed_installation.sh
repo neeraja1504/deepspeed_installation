@@ -18,11 +18,7 @@ python
 #deepspeed installation
 git clone  https://github.com/microsoft/DeepSpeed
 cd DeepSpeed
-pip install 
 DS_BUILD_CPU_ADAM=1 pip install .
 ds_report
 pip install accelerate
 pip install wandb
-
-
-
