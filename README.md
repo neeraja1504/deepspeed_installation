@@ -1,5 +1,5 @@
 # deepspeed_installation
-This repository gives a detailed guide on how to install deepspeed on linux systems.
+This repository gives a detailed guide on how to install deepspeed on linux systems. The necessary commands to install deepspeed are in the deepspeed_installation.sh file in this repository.
 
 Things to keep in mind:
 - NVCC version and Pytorch cuda version should be the same, otherwise deepspeed wont be installed.
